@@ -5,7 +5,7 @@
 O assunto de interesse para aprender utilizando o NotebookLM foi criação de jogos. O objetivo é aprender do zero a como estruturar uma ideia e executar seu desenvolvimento. Esse guia tem objetivo de guiar a idealização, qual motor gráfico utilizar para iniciar o desenolvimento, materiais para sons e imagens e por fim onde publicar meu jogo desenvolvido.
 
 ## 🔍 Fontes
-As fontes utilizadas foram de canais do youtube e textos da internet. De começo, foram apeans três vídeos e dois sites, mas com o mecanismo de Deepsearch do NotebookLM, foi possível reunir mais fontes confiáveis para expandir o conteúdo e assim ter mais informação para o aprendizado do conteúdo em interesse.
+As fontes utilizadas foram de canais do youtube e textos da internet. De começo, foram apeans três vídeos e dois sites, mas com o mecanismo de _Deepsearch_ do NotebookLM, foi possível reunir mais fontes confiáveis para expandir o conteúdo e assim ter mais informação para o aprendizado do conteúdo em interesse.
 
 ### Fontes em vídeo
 
